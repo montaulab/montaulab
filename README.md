@@ -1,4 +1,6 @@
 ## MontauLab 👋
+<img width="820" height="312" alt="image" src="https://github.com/user-attachments/assets/0cdbe66c-62f7-41dc-ab95-d912ef645176" />
+
 
 Fablab de montauban 🌱
 
